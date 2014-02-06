@@ -1,29 +1,36 @@
 body {
-	font-family: sans-serif;
+	font-family: times;
+	background-color: #CCFFF5
 
+}
+p {
+	font-size: 20px;
+	background-color: #E6E6E6;
+	border: solid;
+	border-width: 4px;
+	text-align: center;
 }
 
 h1 {
-	color: green;
+	color: #7A0000;
+	font-size: 50px;
 	text-align: center;
+	padding: 20px 10px 20px 10px
 
 }
 
 #image {
-	margin-left:10px;
-	margin-right:10px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	border: solid;
+	border-radius: 5px;
 }
 
 a {
-	font-size: 
-
+	font-size: 40px;
+	color: blue;
+	word-spacing: 40px;
 }
 
-p {
-	font-size: 20px;
-	color: maroon;
-	border: dotted;
-	border-width: 3px;
-
-
-}
